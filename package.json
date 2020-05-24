@@ -8,10 +8,16 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
     "parcel-bundler": "^1.12.4"
   },
   "scripts": {
-	"start": "parcel index.html -p 8080",
-	"build": "NODE_ENV=production parcel build index.html"
+    "start": "parcel index.html -p 8080",
+    "build": "NODE_ENV=production parcel build index.html"
   }
 }
