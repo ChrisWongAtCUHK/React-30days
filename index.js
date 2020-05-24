@@ -3,9 +3,7 @@ import ReactDOM from 'react-dom';
 
 const App = () => {
   return (
-    <div>
-      Hello World!
-    </div>
+    React.createElement('div', null, 'Hello World!')
   );
 };
 
