@@ -1,9 +1,12 @@
 import React from 'react';
 
-const Button = ({text}) => {
-  return (
-    <button>{text}</button>
-  )
-};
+// class component
+class Button extends React.Component { // 1. class Xxx extends React.Component {}
+  render() { // 2. render() {...}
+    return ( // 3. return {...}
+      (<button>{this.props.text}</button>) // 4. this.props ...
+    );
+  }
+}
 
 export default Button;
