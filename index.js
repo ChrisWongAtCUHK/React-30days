@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Counter from './src/components/counter';  // 匯入Counter
+import List from "./src/components/list";
 
 const App = () => {
   return (
     <div>
-      <Counter/> { /* 使用Counter component */}
+     <List />
     </div>
   );
 };
