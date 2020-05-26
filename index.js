@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import NameForm from "./src/components/name-form";
+import Contact from "./src/components/contact";
 
 const App = () => {
   return (
     <div>
-     <NameForm />
+     <Contact />
     </div>
   );
 };
