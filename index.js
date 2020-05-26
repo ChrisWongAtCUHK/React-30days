@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import List from "./src/components/list";
+import NameForm from "./src/components/name-form";
 
 const App = () => {
   return (
     <div>
-     <List />
+     <NameForm />
     </div>
   );
 };
