@@ -1,0 +1,21 @@
+/* 引入其他 CSS 文件 */
+@import './button.css';
+
+.title {
+  font-size: 16px;
+  color: skyblue;
+  padding: 0 5px;
+}
+
+.image-background {
+  /* 引用圖片 */
+  width: 260px;
+  height: 232px;
+}
+
+/* --- */
+.block {
+  display: flex;
+  align-items: center;
+}
+/* --- */

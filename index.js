@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-import Register from './src/components/register';
+import './src/styles/index.css';
 
 const App = () => {
   return (
     <div>
-     <Register />
+      <div className="block">
+        <span className="title">Hello World!</span>
+        <button className="button">按鈕</button>
+      </div>
+      <div className="image-background"></div>
     </div>
   );
 };
