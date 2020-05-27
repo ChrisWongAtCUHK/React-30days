@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Contact from "./src/components/contact";
+import Register from './src/components/register';
 
 const App = () => {
   return (
     <div>
-     <Contact />
+     <Register />
     </div>
   );
 };
