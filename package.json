@@ -11,7 +11,8 @@
     "yup": "^0.29.0"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5"
   },
   "scripts": {
     "start": "parcel index.html -p 8080",
