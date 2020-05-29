@@ -5,6 +5,7 @@ import update from 'immutability-helper';
 import './src/styles/index.scss';
 import NewTodo from './src/components/new_todo'; // 1. 匯入NewTodo
 import TodoList from './src/components/todo_list';  // 1. 匯入TodoList
+import index from "./src";
 
 class App extends Component {
   constructor(props) {

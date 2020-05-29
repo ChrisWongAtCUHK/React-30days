@@ -7,3 +7,6 @@
 - [Day 08-淚水交織的表單(Form)](https://ithelp.ithome.com.tw/articles/10201339)
 - [Day 09-[番外]繽紛世界(CSS / Autoprefixer / SCSS with Parcel)](https://ithelp.ithome.com.tw/articles/10201770)
 - [Day 10-todos小練習](https://ithelp.ithome.com.tw/articles/10202267)
+- [Day 11-初探Redux(State)](https://ithelp.ithome.com.tw/articles/10202594)
+- [Day 12-初探Redux(store, reducer, action)](https://ithelp.ithome.com.tw/articles/10202842)
+- [Day 13-Redux-Store的三個方法](https://ithelp.ithome.com.tw/articles/10203189)
