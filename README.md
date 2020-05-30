@@ -10,3 +10,4 @@
 - [Day 11-初探Redux(State)](https://ithelp.ithome.com.tw/articles/10202594)
 - [Day 12-初探Redux(store, reducer, action)](https://ithelp.ithome.com.tw/articles/10202842)
 - [Day 13-Redux-Store的三個方法](https://ithelp.ithome.com.tw/articles/10203189)
+- [Day 14-和Redux合作重寫todos吧！](https://ithelp.ithome.com.tw/articles/10203447)

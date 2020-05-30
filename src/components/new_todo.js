@@ -1,4 +1,6 @@
 import React, { PureComponent } from "react";
+import { connect } from "react-redux";
+import { addNewTodo } from "../actions";
 
 class NewTodo extends PureComponent {  //  1.
   constructor(props) {  // 2.
@@ -39,4 +41,4 @@ class NewTodo extends PureComponent {  //  1.
   }
 }
 
-export default NewTodo;
+export default connect(null, { addNewTodo })(NewTodo);
